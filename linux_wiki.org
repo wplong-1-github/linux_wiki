@@ -113,3 +113,16 @@ $ who | sort
 * notes
 ** what about ^z
 ** PGI compiler
+
+* --------------------Bash shell----------------------
+* history
+stored in .bash_history
+it is the command record before login
+* alias
+used for rename command
+
+* job control, foreground, background
+Chapter 17 in vbird
+
+* shell script
+* wildcard
